@@ -66,3 +66,4 @@ games.howell <- function(grp, obs) {
 }
 
 #What happens if I make changes in Atom? This is my preffered editor. Maybe I can just connect Atom to github and delete the desktop version to save space
+#now I am editing the file in the online version 
